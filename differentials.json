@@ -1,0 +1,93 @@
+{
+ "_meta": {
+  "generated_at": "2026-07-20T03:50:46.620528+00:00",
+  "git_sha": "7ccce09",
+  "note": "our number vs street consensus, delta only; street levels not republished (licensing)"
+ },
+ "differentials": [
+  {
+   "target": "NVDA data_center Q-ending-2026-07 revenue_usd",
+   "differential_pct": 19.985541191616765,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "AMD data_center Q-ending-2026-06 revenue_usd",
+   "differential_pct": 22.743355841269842,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "NVDA data_center Q-ending-2026-07 revenue_usd",
+   "differential_pct": 19.985541191616765,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "AMD data_center Q-ending-2026-06 revenue_usd",
+   "differential_pct": 22.743355841269842,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "NVDA data_center Q-ending-2026-07 revenue_usd",
+   "differential_pct": 19.985541191616765,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "AMD data_center Q-ending-2026-06 revenue_usd",
+   "differential_pct": 22.743355841269842,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "NVDA data_center Q-ending-2026-07 revenue_usd",
+   "differential_pct": 19.985541191616765,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "AMD data_center Q-ending-2026-06 revenue_usd",
+   "differential_pct": 22.743355841269842,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "MU total_revenue FQ4-26 usd_b",
+   "differential_pct": 17.38188976377954,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "NVDA data_center Q-ending-2026-07 revenue_usd",
+   "differential_pct": 19.985541191616765,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "AMD data_center Q-ending-2026-06 revenue_usd",
+   "differential_pct": 22.743355841269842,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  },
+  {
+   "target": "MU total_revenue FQ4-26 usd_b",
+   "differential_pct": 17.38188976377954,
+   "status": "open",
+   "winner": null,
+   "recorded": "2026-07-19"
+  }
+ ]
+}
