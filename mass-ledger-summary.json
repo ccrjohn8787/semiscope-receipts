@@ -1,7 +1,7 @@
 {
  "_meta": {
-  "generated_at": "2026-07-21T02:02:34.753028+00:00",
-  "git_sha": "7f60b3c",
+  "generated_at": "2026-07-22T02:02:49.026600+00:00",
+  "git_sha": "76bf99b",
   "what": "monthly yoy-carry predictions on ~1,900 Taiwan-listed supply-chain members, scored against MOPS mandatory filings",
   "row_level": "not published (paid product); commitment hashes for open predictions below prove content at timestamp"
  },
