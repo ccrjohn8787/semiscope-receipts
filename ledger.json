@@ -1,7 +1,7 @@
 {
  "_meta": {
-  "generated_at": "2026-07-26T02:02:47.995055+00:00",
-  "git_sha": "1b84000",
+  "generated_at": "2026-07-27T02:03:24.168852+00:00",
+  "git_sha": "1d9fb13",
   "commitment_rule": "sha256(target|point|low|high|made_at)[:16]",
   "note": "append-only; git history of this repo is the timestamp authority"
  },
@@ -293,6 +293,22 @@
    "scored_at": null,
    "abs_err": null,
    "commitment": "b8732d69521576b6"
+  },
+  {
+   "id": 19,
+   "made_at": "2026-07-25T20:52:29.893779+00:00",
+   "model": "capex_cascade_census_v1",
+   "model_version": "1b84000",
+   "target": "Census C30 US data-center construction 2026 NSA sum, vintage published by 2027-03-31",
+   "point": 92463000000.0,
+   "low": 78224710393.00703,
+   "high": 103213023363.1737,
+   "unit": "USD",
+   "note": "Made 2026-07-25 after May C30 was known. Score once against the Census C30 NSA Jan-Dec 2026 data-center sum in the release available 2027-03-31. Threshold context: <70B breach; 70-90B watch; >=90B corroborates direction. P10/P90 are declared stress ranges, not fitted confidence intervals.",
+   "actual": null,
+   "scored_at": null,
+   "abs_err": null,
+   "commitment": "3e2ca5aeca75523c"
   }
  ]
 }
