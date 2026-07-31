@@ -1,7 +1,7 @@
 {
  "_meta": {
-  "generated_at": "2026-07-29T02:02:59.204109+00:00",
-  "git_sha": "73c8c57",
+  "generated_at": "2026-07-31T02:02:55.116548+00:00",
+  "git_sha": "93d148a",
   "commitment_rule": "sha256(target|point|low|high|made_at)[:16]",
   "note": "append-only; git history of this repo is the timestamp authority"
  },
@@ -49,9 +49,9 @@
    "high": 44595019777.0,
    "unit": "USD",
    "note": "Q2-2026 capex nowcast (eval Q1.4, M7). Ensemble drift+yoy-carry on filed quarterly capex. Backtest 2024+ n=9 median 6.9%, p90 31.0%. Resolves at print ~2026-07-29.",
-   "actual": null,
-   "scored_at": null,
-   "abs_err": null,
+   "actual": 35802000000.0,
+   "scored_at": "2026-07-31T02:02:45.013223+00:00",
+   "abs_err": 1747569752.0,
    "commitment": "5ca085127687c5e5"
   },
   {
