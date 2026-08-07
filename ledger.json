@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "generated_at": "2026-08-07T02:04:02.159251+00:00",
+  "generated_at": "2026-08-07T02:05:51.199609+00:00",
   "git_sha": "99b96b6",
   "commitment_rule": "sha256(target|point|low|high|made_at)[:16]",
   "note": "append-only; git history of this repo is the timestamp authority"
@@ -33,9 +33,9 @@
    "high": 8660771189.0,
    "unit": "USD",
    "note": "Used in 2026-Q3 interlock note. AMD reports ~early Aug 2026. Note: AMD trailing window misses Dec-25 quarter (Q4-derivation pending).",
-   "actual": null,
-   "scored_at": null,
-   "abs_err": null,
+   "actual": 6718000000.0,
+   "scored_at": "2026-08-07T02:04:43.687121+00:00",
+   "abs_err": 1014831418.0,
    "commitment": "197e17ec55ee856d"
   },
   {
