@@ -1,7 +1,7 @@
 {
  "_meta": {
-  "generated_at": "2026-08-10T02:03:11.962155+00:00",
-  "git_sha": "1afb4e3",
+  "generated_at": "2026-08-11T02:04:01.856471+00:00",
+  "git_sha": "b087ad7",
   "commitment_rule": "sha256(target|point|low|high|made_at)[:16]",
   "note": "append-only; git history of this repo is the timestamp authority"
  },
@@ -461,6 +461,30 @@
    "actual_source_table": null,
    "actual_source_key": null,
    "commitment": "3e2ca5aeca75523c"
+  },
+  {
+   "id": 20,
+   "made_at": "2026-08-11T02:03:49.225972+00:00",
+   "model": "taiwan_tape/ratio_drift",
+   "model_version": "b087ad7",
+   "target": "AMD data_center Q-ending-2026-09 revenue_usd",
+   "point": 8222186412.0,
+   "low": 6742192858.0,
+   "high": 9702179967.0,
+   "unit": "USD",
+   "note": "roles=foundry,server_odm,power_cooling,osat_test,substrate_pcb n_history=14",
+   "actual": null,
+   "scored_at": null,
+   "abs_err": null,
+   "interval_covered": null,
+   "actual_source": null,
+   "actual_accession": null,
+   "actual_concept": null,
+   "actual_period": null,
+   "actual_retrieved_at": null,
+   "actual_source_table": null,
+   "actual_source_key": null,
+   "commitment": "cdff0a7ff662aebe"
   }
  ]
 }
