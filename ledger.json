@@ -1,7 +1,7 @@
 {
  "_meta": {
-  "generated_at": "2026-08-15T02:03:34.916959+00:00",
-  "git_sha": "43cb78d",
+  "generated_at": "2026-08-16T02:02:53.663726+00:00",
+  "git_sha": "6fcd9d5",
   "commitment_rule": "sha256(target|point|low|high|made_at)[:16]",
   "note": "append-only; git history of this repo is the timestamp authority"
  },
