@@ -1,7 +1,7 @@
 {
  "_meta": {
-  "generated_at": "2026-08-27T02:02:44.304403+00:00",
-  "git_sha": "3c23169",
+  "generated_at": "2026-08-28T02:02:48.091658+00:00",
+  "git_sha": "a796c9d",
   "note": "our number vs street consensus, delta only; street levels not republished (licensing)"
  },
  "differentials": [
@@ -95,6 +95,13 @@
    "status": "closed",
    "winner": "street",
    "recorded": "2026-08-07"
+  },
+  {
+   "target": "NVDA data_center Q-ending-2026-07 revenue_usd",
+   "differential_pct": 19.985541191616765,
+   "status": "closed",
+   "winner": "street",
+   "recorded": "2026-08-27"
   }
  ]
 }
